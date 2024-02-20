@@ -1,0 +1,40 @@
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 14px;
+}
+
+#inputForm {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.field {
+    display: flex;
+    padding: 14px;
+    height: 12px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+table {
+    background-color: black;
+}
+th {
+    padding: 14px;
+    background-color: grey;
+}
+
+td {
+    background-color: lightgrey;
+}
+
+.deleteBtn:hover {
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+
