@@ -1,1 +1,1 @@
-Basic expense tracker
+Super basic barely styled expense tracker
